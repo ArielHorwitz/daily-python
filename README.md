@@ -8,3 +8,4 @@ This project started on the 24th of May, 2023. Wish me luck!
 2. [Annotations and type hinting](/tips/002-annotations-type-hints.md)
 3. [Virtual environments and pip](/tips/003-venv-pip.md)
 4. [The requirements.txt file](/tips/004-requirements-txt.md)
+5. [Library recommendation: Black](/tips/005-black-library.md)
