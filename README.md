@@ -11,3 +11,4 @@ This project started on the 24th of May, 2023. Wish me luck!
 5. [Library recommendation: Black](/tips/005-black-library.md)
 6. [Decorators](/tips/006-decorators.md)
 7. [The functools wraps decorator](/tips/007-functools-wraps.md)
+8. [The Match Statement](/tips/008-match.md)
