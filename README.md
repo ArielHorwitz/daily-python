@@ -13,3 +13,4 @@ This project started on the 24th of May, 2023. Wish me luck!
 7. [The functools wraps decorator](/tips/007-functools-wraps.md)
 8. [The Match Statement](/tips/008-match.md)
 9. [Library recommendation: docopt-ng](/tips/009-docopt-ng-library.md)
+10. [F-strings](/tips/010-fstrings.md)
