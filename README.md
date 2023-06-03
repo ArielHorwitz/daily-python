@@ -14,3 +14,4 @@ This project started on the 24th of May, 2023. Wish me luck!
 8. [The Match Statement](/tips/008-match.md)
 9. [Library recommendation: docopt-ng](/tips/009-docopt-ng-library.md)
 10. [F-strings](/tips/010-fstrings.md)
+11. [Packing and Unpacking Sequences and Mappings](/tips/011-packing-unpacking.md)
