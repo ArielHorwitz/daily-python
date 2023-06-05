@@ -16,3 +16,4 @@ This project started on the 24th of May, 2023. Wish me luck!
 10. [F-strings](/tips/010-fstrings.md)
 11. [Packing and Unpacking Sequences and Mappings](/tips/011-packing-unpacking.md)
 12. [Exception Handling](/tips/012-exception-handling.md)
+13. [Interfaces with ABCs](/tips/013-interfaces-with-abcs.md)
