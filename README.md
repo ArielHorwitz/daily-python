@@ -20,3 +20,4 @@ This project started on the 24th of May, 2023. Wish me luck!
 14. [Context Managers](/tips/014-context-managers.md)
 15. [Operator Overloading](/tips/015-operator-overloading.md)
 16. [The NamedTuple](/tips/016-namedtuples.md)
+17. [Lambda Functions](/tips/017-lambda-functions.md)
