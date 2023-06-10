@@ -21,3 +21,4 @@ This project started on the 24th of May, 2023. Wish me luck!
 15. [Operator Overloading](/tips/015-operator-overloading.md)
 16. [The NamedTuple](/tips/016-namedtuples.md)
 17. [Lambda Functions](/tips/017-lambda-functions.md)
+18. [The collections defaultdict](/tips/018-collections-defaultdict.md)
