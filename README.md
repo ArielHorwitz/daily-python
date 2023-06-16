@@ -27,3 +27,4 @@ This project started on the 24th of May, 2023. Wish me luck!
 21. [From Generators To Coroutines](/tips/021-generators-to-coroutines.md)
 22. [Asyncio Basics](/tips/022-asyncio-basics.md)
 23. [Async Iterators and Context Managers](/tips/023-async-iter-context.md)
+24. [Asyncio Tasks](/tips/024-asyncio-tasks.md)
