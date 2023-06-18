@@ -29,3 +29,4 @@ This project started on the 24th of May, 2023. Wish me luck!
 23. [Async Iterators and Context Managers](/tips/023-async-iter-context.md)
 24. [Asyncio Tasks](/tips/024-asyncio-tasks.md)
 25. [Never Import With *](/tips/025-never-import-star.md)
+26. [Assignment Expressions](/tips/026-assignment-expressions.md)
