@@ -32,3 +32,4 @@ This project started on the 24th of May, 2023. Wish me luck!
 26. [Assignment Expressions](/tips/026-assignment-expressions.md)
 27. [Properties](/tips/027-properties.md)
 28. [Pathlib and the Path Object](/tips/028-pathlib.md)
+29. [Serialization With Pickle](/tips/029-pickle.md)
