@@ -1,6 +1,6 @@
 # JSON For Arbitrary Data Structures
 
-In a [previous post]([url](/029-pickle.md)) we discussed serialization with the pickle module, and its usefulness (particularly for nested data structures with custom classes of objects), and it's security (or lack thereof). In this post we will discuss the builtin `json` module, it's basic usage, and the unfortunate inconvenience of working with custom classes of nested data structure.
+In a [previous post](/tips/029-pickle.md) we discussed serialization with the pickle module, and its usefulness (particularly for nested data structures with custom classes of objects), and it's security (or lack thereof). In this post we will discuss the builtin `json` module, it's basic usage, and the unfortunate inconvenience of working with custom classes of nested data structure.
 
 The builtin json module is very simple and easy with builtin classes that match the structure of JSON arrays and objects:
 ```python
