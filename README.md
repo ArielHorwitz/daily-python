@@ -38,3 +38,4 @@ This project started on the 24th of May, 2023. Wish me luck!
 32. [Qualified Names](/tips/032-qualname.md)
 33. [JSON For Arbitrary Data Structures](/tips/033-json-arbitrary.md)
 34. [Dynamic Attributes in Python](/tips/034-dynamic-attributes.md)
+35. [Dot Notation For Numbers](/tips/035-numbers-dot-notation.md)
