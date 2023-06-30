@@ -41,3 +41,4 @@ This project started on the 24th of May, 2023. Wish me luck!
 35. [Dot Notation For Numbers](/tips/035-numbers-dot-notation.md)
 36. [The Descriptor Protocol](/tips/036-descriptor-protocol.md)
 37. [Callable Objects](/tips/037-callable.md)
+38. [Dot Notation and Methods](/tips/038-dot-notation-methods.md)
