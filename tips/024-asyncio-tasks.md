@@ -1,5 +1,5 @@
 # Asyncio Tasks
-> This post follows [Asyncio Basics](/tips/023-asyncio-basics.md).
+> This post follows [Asyncio Basics](/tips/022-asyncio-basics.md).
 
 So far we have learned the syntax and some basic concepts of asynchronous concurrency. We will now discuss making use of the asyncio library proper, in particular the use of `asyncio.Task` to schedule concurrent coroutines.
 
