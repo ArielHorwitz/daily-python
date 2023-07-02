@@ -43,3 +43,4 @@ This project started on the 24th of May, 2023. Wish me luck!
 37. [Callable Objects](/tips/037-callable.md)
 38. [Dot Notation and Methods](/tips/038-dot-notation-methods.md)
 39. [Classmethods and Staticmethods](/tips/039-class-static-methods.md)
+40. [Slicing and Indexing](/tips/040-slicing-indexing.md)
