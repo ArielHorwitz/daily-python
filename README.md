@@ -45,3 +45,4 @@ This project started on the 24th of May, 2023. Wish me luck!
 39. [Classmethods and Staticmethods](/tips/039-class-static-methods.md)
 40. [Slicing and Indexing](/tips/040-slicing-indexing.md)
 41. [Set Collections](/tips/041-sets.md)
+42. [Hashing and Mapping](/tips/042-hashing.md)
