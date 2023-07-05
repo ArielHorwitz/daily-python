@@ -46,3 +46,4 @@ This project started on the 24th of May, 2023. Wish me luck!
 40. [Slicing and Indexing](/tips/040-slicing-indexing.md)
 41. [Set Collections](/tips/041-sets.md)
 42. [Hashing and Mapping](/tips/042-hashing.md)
+43. [Dataclasses](/tips/043-dataclasses.md)
