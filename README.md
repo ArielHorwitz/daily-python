@@ -47,3 +47,4 @@ This project started on the 24th of May, 2023. Wish me luck!
 41. [Set Collections](/tips/041-sets.md)
 42. [Hashing and Mapping](/tips/042-hashing.md)
 43. [Dataclasses](/tips/043-dataclasses.md)
+44. [Introduction To Numpy](/tips/044-numpy-intro.md)
