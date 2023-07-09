@@ -50,3 +50,4 @@ This project started on the 24th of May, 2023. Wish me luck!
 44. [Introduction To Numpy](/tips/044-numpy-intro.md)
 45. [Numpy N-Dimensional Arrays](/tips/045-numpy-ndarrays.md)
 46. [Numpy Broadcasting](/tips/046-numpy-broadcasting.md)
+47. [Numpy Data Types](/tips/047-numpy-dtypes.md)
