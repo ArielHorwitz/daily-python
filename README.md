@@ -52,4 +52,4 @@ This project started on the 24th of May, 2023. Wish me luck!
 46. [Numpy Broadcasting](/tips/046-numpy-broadcasting.md)
 47. [Numpy Data Types](/tips/047-numpy-dtypes.md)
 48. [Numpy Views And Copies](/tips/048-numpy-view-copy.md)
-
+49. [Numpy - Combining Multidimensional Arrays](/tips/049-numpy-combining.md)
