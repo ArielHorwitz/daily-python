@@ -54,3 +54,4 @@ This project started on the 24th of May, 2023. Wish me luck!
 48. [Numpy Views And Copies](/tips/048-numpy-view-copy.md)
 49. [Numpy - Combining Multidimensional Arrays](/tips/049-numpy-combining.md)
 50. [Numpy Advanced Indexing](/tips/050-numpy-advanced-indexing.md)
+51. [Numpy Masks](/tips/051-numpy-masks.md)
