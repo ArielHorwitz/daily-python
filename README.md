@@ -58,3 +58,4 @@ This project started on the 24th of May, 2023. Wish me luck!
 52. [Numpy Random Generators](/tips/052-numpy-random.md)
 53. [Numpy I/O And Compression](/tips/053-numpy-io.md)
 54. [Numpy Dimension Expanding And Broadcasting](/tips/054-numpy-expanding-broadcasting.md)
+55. [Using Python As Linux Scripts](/tips/055-linux-cli.md)
