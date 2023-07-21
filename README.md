@@ -62,3 +62,4 @@ This project started on the 24th of May, 2023. Wish me luck!
 56. [Using Python As Linux Scripts - Part 2](/tips/056-linux-cli2.md)
 57. [Using Python As Linux Scripts - Part 3](/tips/057-shlex.md)
 58. [Handling Default Arguments](/tips/058-default-arguments.md)
+58. [Name Bindings In Nested Scopes](/tips/059-binding-nested-scope.md)
