@@ -67,3 +67,4 @@ This project started on the 24th of May, 2023. Wish me luck!
 61. [Library Recommendation: Loguru](/tips/061-loguru.md)
 62. [Temporary Files And Folders](/tips/062-tempfile.md)
 63. [User Data Directories](/tips/063-user-dir.md)
+64. [For Else](/tips/064-for-else.md)
