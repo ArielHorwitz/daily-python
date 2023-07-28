@@ -69,3 +69,4 @@ This project started on the 24th of May, 2023. Wish me luck!
 63. [User Data Directories](/tips/063-user-dir.md)
 64. [For Else](/tips/064-for-else.md)
 65. [Swapping Variables With Tuple Unpacking](/tips/065-variable-swap.md)
+66. [Dictionary Default Values](/tips/066-dict-defaults.md)
