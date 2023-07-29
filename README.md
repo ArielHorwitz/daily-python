@@ -70,3 +70,4 @@ This project started on the 24th of May, 2023. Wish me luck!
 64. [For Else](/tips/064-for-else.md)
 65. [Swapping Variables With Tuple Unpacking](/tips/065-variable-swap.md)
 66. [Dictionary Default Values](/tips/066-dict-defaults.md)
+67. [Using The Python REPL As A Calculator](/tips/067-python-repl.md)
