@@ -72,3 +72,4 @@ This project started on the 24th of May, 2023. Wish me luck!
 66. [Dictionary Default Values](/tips/066-dict-defaults.md)
 67. [Using The Python REPL As A Calculator](/tips/067-python-repl.md)
 68. [The \_\_init\_\_ Module](/tips/068-init-module.md)
+69. [Antigravity](/tips/069-antigravity.md)
